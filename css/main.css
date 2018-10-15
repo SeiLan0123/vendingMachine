@@ -1,0 +1,21 @@
+#map-canvas {
+  float:left;
+  width: 48vw;
+  height: 48vw;
+}
+
+#list{
+  border: 1px solid #000000;
+}
+h3{
+  border-bottom: 1px solid #000000;
+}
+
+#contents{
+  float:right;
+  width: 48vw;
+  height: 100vh;
+}
+#displayLabel{
+  font-size: 23px;
+}
